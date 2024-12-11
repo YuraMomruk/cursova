@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-21RFT4C_MSSQL.Work"
+  DTS:DTSID="{E683E536-79C8-4BBE-B640-146AB82CF66D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-21RFT4C\MSSQL;Initial Catalog=Work;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Pay Work Integration Services Project-{E683E536-79C8-4BBE-B640-146AB82CF66D}DESKTOP-21RFT4C\MSSQL.Work;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

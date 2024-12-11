@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Pay Work Integration Services Project", "Pay Work Integration Services Project\Pay Work Integration Services Project.dtproj", "{D3B7B165-9BE3-4D72-874A-986A9EEA837C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B7B165-9BE3-4D72-874A-986A9EEA837C}.Development|Default.ActiveCfg = Development
+		{D3B7B165-9BE3-4D72-874A-986A9EEA837C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F576362-2210-4C34-90D4-885D8AFF1906}
+	EndGlobalSection
+EndGlobal
